@@ -1,0 +1,14 @@
+
+.transition1{
+    height: 10vh;
+    background-color: rgb(226, 194, 185);
+}
+.transition1:after{
+    content:"";
+    border-top: 10vh solid rgb(242, 221, 193);
+    border-right: 100vw solid transparent;
+    width: 0;
+    position: absolute;
+}
+
+
