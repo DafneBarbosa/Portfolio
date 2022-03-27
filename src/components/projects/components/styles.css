@@ -2,7 +2,7 @@
 .project_card {
     display: flex;
     text-decoration: none;
-    margin: 2vh 2vw;
+    margin-top: 6vh;
 }
 
 .project_image {
@@ -12,7 +12,7 @@
 }
 
 .project_text {
-    margin: 3vw 0 0 3vw;
+    margin: 1vh 0 0 3vw;
 }
 
 .project_title {
@@ -46,7 +46,7 @@
 
     .project_card {
         flex-direction: column;
-        margin: 3vh 2vw;
+        margin-top: 4vh;
     }
 
     .project_text {
